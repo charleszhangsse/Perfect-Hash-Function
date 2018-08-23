@@ -2,6 +2,7 @@
 Dynamic Perfect Hash Function (dphf ) generate a perfect hash function object according to an user provided array.
 
 Dphf does something similar to GNU Perf:  https://www.gnu.org/software/gperf/
+
 Actually majority of the ideas to generate the object is borrowed from GNU Perf
 
 But dphf is better in the following area:
